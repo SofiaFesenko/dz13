@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'bustrot';
+    src: url('./Kids\ Busrot.otf');
+}
+
+body {
+    background-color: #ebeaea;
+}
+
+.text {
+    font-family: 'bustrot';
+    text-align: center;
+}
+
+.first {
+    height: 160px;
+    width: 750px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.pic {
+    height: 150px;
+    border: 10px solid white;
+}
+
+
+.second {
+    height: 160px;
+    width: 560px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.pic2 {
+    height: 150px;
+    border: 10px solid white;
+}
+
+
+.third {
+    height: 160px;
+    width: 350px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.pic3 {
+    height: 150px;
+    border: 10px solid white;
+}
+
+
+
